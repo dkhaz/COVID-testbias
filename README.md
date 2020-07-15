@@ -12,7 +12,7 @@ The actual number of COVID-19 infections is a key to understanding the transmis-
 
 ## Brief information about the supplied data 
 
-Here we provide the relevant data used in our analysis. Note that we have collected all the data from the website https://covidtracking.com. Thereafter we correct for the gliches in the data using the methods described in the **Data collection** section of the preprint. We bin the data using binning method described in **Some data analyses details and plots** section. Here we provide the unbinned data in the input_data folder. 
+Here we provide the relevant data used in our analysis. Note that we have collected all the data from the website https://covidtracking.com. Thereafter we correct for the gliches in the data using the methods described in the **Data collection** section of the preprint. We bin the data using binning method described in **Some data analyses details and plots** section. Here we provide the unbinned data in the input_data folder. Unbinned data for each states are provided where first column is *T/H_N* and second column is *p_+/H_N*. We fit *T/H_N* as a function of *p_+/H_N*. 
 
 
 
