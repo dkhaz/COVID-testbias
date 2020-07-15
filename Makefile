@@ -25,5 +25,5 @@ run :
 	time ./covid_test
 
 clean:
-	rm -f *.o *.mod *.d *.pc *.obj fort.* *.out plot_data/* covid_test 
+	rm -f *.o *.mod *.d *.pc *.obj fort.* *.out plot_data/*txt linenum.txt covid_test 
 
